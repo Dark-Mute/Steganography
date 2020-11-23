@@ -1,0 +1,44 @@
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\bin\Debug\lab 2.exe.config
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\bin\Debug\lab 2.exe
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\bin\Debug\lab 2.pdb
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab 2.csprojAssemblyReference.cache
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.Form1.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.Properties.Resources.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab 2.csproj.GenerateResource.cache
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab 2.csproj.CoreCompileInputs.cache
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab 2.exe
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab 2.pdb
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.DekodojWaveText.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.DekodojImgImg.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.DekodojImgText.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.EncodeImgInImg.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.EncodeTextInImg.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.EncodeTextInWav.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.CheckAudioSteganography.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.CheckImageSteganography.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.DecodeAnythingFromImg.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.EncodeAnythingInImg.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.DecodeAnythingFromWav.resources
+G:\Nauka\Studia\semestr 5\Ochrona danych w aplikacjach\lab 2\lab 2\obj\Debug\lab_2.EncodeAnythingInWav.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\bin\Debug\lab 2.exe.config
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\bin\Debug\lab 2.exe
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\bin\Debug\lab 2.pdb
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab 2.csprojAssemblyReference.cache
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.CheckAudioSteganography.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.CheckImageSteganography.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.DecodeAnythingFromImg.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.DecodeAnythingFromWav.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.DekodojWaveText.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.DekodojImgImg.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.DekodojImgText.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.EncodeAnythingInImg.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.EncodeAnythingInWav.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.EncodeImgInImg.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.EncodeTextInImg.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.EncodeTextInWav.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.Properties.Resources.resources
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab 2.csproj.GenerateResource.cache
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab 2.csproj.CoreCompileInputs.cache
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab 2.exe
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab 2.pdb
+C:\Users\PatrykRataj\Desktop\lab 2\lab 2\obj\Debug\lab_2.Steganografia.resources
